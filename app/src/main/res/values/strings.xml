@@ -1,0 +1,4 @@
+<resources>
+	<string name="home_app_name">módulo home</string>
+	<string name="home_module_button">ir para home</string>
+</resources>

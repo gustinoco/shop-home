@@ -1,0 +1,7 @@
+<resources>
+    <string name="home_business_feature">Home Shopping</string>
+    <string name="home_go_to_shooping">Vamos as compras?</string>
+    <string name="home_buy_products">Comprar produtos</string>
+    <string name="home_identify_pending">identificamos uma compra pendente</string>
+    <string name="home_go_to_cart">ir para carrinho</string>
+</resources>
